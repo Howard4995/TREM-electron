@@ -40,6 +40,12 @@ TREM 是一款開源地震速報軟體，提供給您即時的地震資訊，利
 開發中
 
 ## 文檔
+
+### 專案文檔 / Project Documentation
+* [貢獻指南 / Contributing Guide](CONTRIBUTING.md) - 如何參與專案開發
+* [架構文件 / Architecture](docs/ARCHITECTURE.md) - 技術架構說明
+
+### 外部文檔 / External Documentation
 * [TREM](https://hackmd.io/@n5w-HNYMQUmvhV6t1kor5g/Bkqtwduo9)
 * [TREM TAS](https://hackmd.io/@n5w-HNYMQUmvhV6t1kor5g/r1egEt_s5)
 
