@@ -42,6 +42,7 @@ TREM 是一款開源地震速報軟體，提供給您即時的地震資訊，利
 ## 文檔
 
 ### 📖 開始閱讀 (Getting Started)
+* **[文檔導覽圖 (Documentation Map)](DOCUMENTATION_MAP.md)** - 文檔系統導覽和閱讀建議 🗺️
 * **[專案理解總結 (Understanding Summary)](UNDERSTANDING.md)** - 新手入門指南和學習路徑 🌟
 
 ### 📚 詳細文檔 (Detailed Documentation)
